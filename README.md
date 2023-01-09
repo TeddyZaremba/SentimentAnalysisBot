@@ -1,6 +1,6 @@
 # Discord Sentiment Analysis Bot
 
-A discord bot that analyzes the sentiment of the channel's chat. It logs all the chats into a MongoDB database and
+A discord bot that analyzes the sentiment of the channel's chat. It logs all the chats into a MongoDB database and analyzes them to output into the chat.
 
 ## Setup
 
